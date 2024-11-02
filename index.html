@@ -21,8 +21,9 @@
   <script>
     // Cargar y mostrar imágenes desde inventario.json en el mismo repositorio
     async function cargarGaleria() {
-      const baseUrl = window.location.origin + window.location.pathname; // URL base del repositorio actual
-      const jsonUrl = baseUrl + "inventario.json"; // URL del archivo inventario.json
+      // URL base del repositorio actual (en donde está el archivo index.html)
+      const baseUrl = window.location.href; 
+      const jsonUrl = baseUrl + "inventario.json"; // URL del archivo inventario.json en el mismo directorio
 
       try {
         const response = await fetch(jsonUrl);
@@ -56,4 +57,3 @@
   </script>
 </body>
 </html>
-
