@@ -1,20 +1,34 @@
 {
-  "categoria": "GORRAS PRIME",
-  "imagenes": [
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/ARNOLD CAP BLUE.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/BOSTON RED SOX.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/BOSTON SOX R .jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/BULL CAP.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/CHARROS DE JALISCO.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/CHICAGO BULL.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/DOG CAP.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/LA - DODGERS.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/LOS ANGELES ANGELES.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/LOS ANGELES CIELO.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/LOS ANGELES PALM.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/ROMPE LA DOMPE.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/TREBOL RED.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/YANKEES JESUS.jpg",
-    "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/YANKEES NEWYORK.jpg"
+  "categorias": [
+    {
+      "nombre": "GORRAS ALUCIN",
+      "imagenes": [
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-ALUCIN/BAR SIMPSONS.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-ALUCIN/EL NATAKONG.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-ALUCIN/LA PANTERA ROSA .jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-ALUCIN/MALVERDE CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-ALUCIN/MONEY CAP.jpg"
+      ]
+    },
+    {
+      "nombre": "GORRAS PRIME",
+      "imagenes": [
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/ARNOLD CAP BLUE.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/BOSTON RED SOX.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/BOSTON SOX R .jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/BULL CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/CHARROS DE JALISCO.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/CHICAGO BULL.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/DOG CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/LA - DODGERS.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/LOS ANGELES ANGELES.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/LOS ANGELES CIELO.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/LOS ANGELES PALM.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/ROMPE LA DOMPE.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/TREBOL RED.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/YANKEES JESUS.jpg",
+        "https://thekingofcaps.github.io/inventario/CATEGORIA-GORRAS-PRIME/YANKEES NEWYORK.jpg"
+      ]
+    }
   ]
 }
