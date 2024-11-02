@@ -1,8 +1,8 @@
 {
   "categoria": "GORRAS PRIME",
   "imagenes": [
-    "ARNOLD CAP BLUE.jpg",
-    "BOSTON RED SOX.jpg"
-    // Agrega más imágenes aquí
+    "prime1.jpg",
+    "prime2.jpg"
+    // Puedes agregar más nombres de archivo aquí, pero asegúrate de que cada línea esté separada por una coma, excepto la última
   ]
 }
