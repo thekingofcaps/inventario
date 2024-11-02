@@ -24,6 +24,12 @@
 
       try {
         const response = await fetch(jsonUrl);
+        
+        // Verifica si el archivo JSON se cargó correctamente
+        if (!response.ok) {
+          throw new Error(`Error al cargar inventario.json: ${response.status} ${response.statusText}`);
+        }
+
         const data = await response.json();
 
         const categoriaDiv = document.createElement("div");
@@ -47,6 +53,7 @@
         document.getElementById("galeria").appendChild(categoriaDiv);
       } catch (error) {
         console.error("Error al cargar la galería:", error);
+        alert("Hubo un problema al cargar la galería. Revisa la consola para más detalles.");
       }
     }
 
