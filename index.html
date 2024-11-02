@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Galería de Gorras</title>
+  <title>Galería de Gorras - GORRAS PRIME</title>
   <style>
     body { font-family: Arial, sans-serif; background-color: #f9f9f9; margin: 0; padding: 20px; }
     h1 { text-align: center; color: #333; }
@@ -15,15 +15,12 @@
   </style>
 </head>
 <body>
-  <h1>Galería de Gorras</h1>
+  <h1>Galería de Gorras - GORRAS PRIME</h1>
   <div id="galeria"></div>
 
   <script>
-    // Cargar y mostrar imágenes desde inventario.json en el mismo repositorio
     async function cargarGaleria() {
-      // URL base del repositorio actual (en donde está el archivo index.html)
-      const baseUrl = window.location.href; 
-      const jsonUrl = baseUrl + "inventario.json"; // URL del archivo inventario.json en el mismo directorio
+      const jsonUrl = "inventario.json"; // URL local para cargar inventario.json
 
       try {
         const response = await fetch(jsonUrl);
@@ -40,7 +37,7 @@
           const imageCard = document.createElement("div");
           imageCard.className = "image-card";
           imageCard.innerHTML = `
-            <img src="${baseUrl + imagen}" alt="${imagen}">
+            <img src="${imagen}" alt="${imagen}">
             <div class="image-name">${imagen.replace('.jpg', '')}</div>
           `;
           galleryDiv.appendChild(imageCard);
