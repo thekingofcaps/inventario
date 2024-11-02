@@ -20,12 +20,12 @@
 
   <script>
     async function cargarGaleria() {
-      const jsonUrl = "inventario.json"; // URL local para cargar inventario.json
+      const jsonUrl = "inventario.json";
+      const baseUrl = "https://thekingofcaps.github.io/CATEGORIA-GORRAS-PRIME/";
 
       try {
         const response = await fetch(jsonUrl);
         
-        // Verifica si el archivo JSON se cargó correctamente
         if (!response.ok) {
           throw new Error(`Error al cargar inventario.json: ${response.status} ${response.statusText}`);
         }
@@ -43,7 +43,7 @@
           const imageCard = document.createElement("div");
           imageCard.className = "image-card";
           imageCard.innerHTML = `
-            <img src="${imagen}" alt="${imagen}">
+            <img src="${baseUrl + imagen}" alt="${imagen}">
             <div class="image-name">${imagen.replace('.jpg', '')}</div>
           `;
           galleryDiv.appendChild(imageCard);
