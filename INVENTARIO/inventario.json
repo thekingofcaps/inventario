@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "nombre": "GORRAS ALUCIN",
+      "imagenes": [
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-ALUCIN/BAR SIMPSONS.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-ALUCIN/EL NATAKONG.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-ALUCIN/LA PANTERA ROSA .jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-ALUCIN/MALVERDE CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-ALUCIN/MONEY CAP.jpg"
+      ]
+    },
+    {
+      "nombre": "GORRAS PRIME",
+      "imagenes": [
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/ARNOLD CAP BLUE.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/BOSTON RED SOX.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/BOSTON SOX R .jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/BULL CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/CHARROS DE JALISCO.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/CHICAGO BULL.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/DOG CAP.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/LA - DODGERS.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/LOS ANGELES ANGELES.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/LOS ANGELES CIELO.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/LOS ANGELES PALM.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/ROMPE LA DOMPE.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/TREBOL RED.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/YANKEES JESUS.jpg",
+        "https://thekingofcaps.github.io/inventario/INVENTARIO/CATEGORIA-GORRAS-PRIME/YANKEES NEWYORK.jpg"
+      ]
+    }
+  ]
+}
